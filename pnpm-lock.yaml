@@ -8,6 +8,7 @@ specifiers:
   '@babel/preset-typescript': ^7.24.7
   '@eslint/compat': ^1.1.1
   '@eslint/js': ^9.7.0
+  '@micro-zoe/micro-app': 1.0.0-rc.5
   '@pmmmwh/react-refresh-webpack-plugin': ^0.5.15
   '@types/node': ^20.14.10
   '@types/react': ^18.3.3
@@ -56,6 +57,7 @@ specifiers:
   webpack-merge: ^6.0.1
 
 dependencies:
+  '@micro-zoe/micro-app': 1.0.0-rc.5
   react: 18.3.1
   react-dom: 18.3.1_react@18.3.1
 
@@ -1674,6 +1676,10 @@ packages:
   /@leichtgewicht/ip-codec/2.0.5:
     resolution: {integrity: sha512-Vo+PSpZG2/fmgmiNzYK9qWRh8h/CHrwD0mo1h1DzL4yzHNSfWYujGTYsWGreD000gcgmZ7K4Ys6Tx9TxtsKdDw==}
     dev: true
+
+  /@micro-zoe/micro-app/1.0.0-rc.5:
+    resolution: {integrity: sha512-Z7Qkp1ZxFc04UYkR6UYPorg/VgACvE0E0Y8tyOKfR9AZmvoSNPdv4TpBFv3FRoYcvMlXW8TnEXhxL1VmCbL+2w==}
+    dev: false
 
   /@nodelib/fs.scandir/2.1.5:
     resolution: {integrity: sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g==}
